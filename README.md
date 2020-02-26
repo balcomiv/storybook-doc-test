@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Storybook Doc Help
+- https://medium.com/storybookjs/storybook-docs-for-new-frameworks-b1f6090ee0ea
+- https://next--storybookjs.netlify.com/angular-cli/?path=/docs/docbutton--basic
+
+- https://github.com/storybookjs/storybook/tree/next/addons/docs/angular
+- https://github.com/storybookjs/storybook/blob/be3add9520fc94bedac38db91e10971e90868415/examples/angular-cli/src/stories/doc-button/doc-button.stories.ts

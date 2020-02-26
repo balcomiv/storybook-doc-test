@@ -23,8 +23,6 @@
     "@angular/platform-browser": "~8.2.12",
     "@angular/platform-browser-dynamic": "~8.2.12",
     "@angular/router": "~8.2.12",
-    "@storybook/addon-docs": "^5.3.14",
-    "D": "^1.0.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
@@ -35,7 +33,9 @@
     "@angular/compiler-cli": "~8.2.12",
     "@angular/language-service": "~8.2.12",
     "@babel/core": "^7.8.4",
+    "@compodoc/compodoc": "^1.1.11",
     "@storybook/addon-actions": "5.3.13",
+    "@storybook/addon-docs": "^5.3.14",
     "@storybook/addon-links": "5.3.13",
     "@storybook/addon-notes": "5.3.13",
     "@storybook/addons": "5.3.13",
